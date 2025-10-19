@@ -1,3 +1,6 @@
+CREATE DATABASE buy_and_sell;
+USE buy_and_sell;
+
 CREATE TABLE listings (
     id VARCHAR(36) PRIMARY KEY,       -- Handles both numeric IDs and UUIDs
     name VARCHAR(255) NOT NULL,
