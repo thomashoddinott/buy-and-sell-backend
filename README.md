@@ -1,3 +1,6 @@
+# Todo
+- Tests [ ]
+
 Set up Docker DB:
 
 `docker pull mysql:latest`
