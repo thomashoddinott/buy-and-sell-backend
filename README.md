@@ -1,5 +1,5 @@
 # Todo
-- Tests [ ]
+- Tests [ ] 🚧 Running into a lot of babel/ESmodules related errors so leaving this for now.
 
 Set up Docker DB:
 
